@@ -5,4 +5,10 @@ public class Main {
 
 
     private int i;
+    public static void main(String[] args){
+    	return;
+    }
+
+
+
 }
